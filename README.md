@@ -15,10 +15,10 @@ I enjoy building ambitious startups and open source tools.
 
 ### Previous Work
 - [Forest Admin](https://www.forestadmin.com): the first "admin panel" SaaS. Pioneered the internal tools category. Scaled from ideation to millions in ARR and a +50-person company. *(Nodejs) (Emberjs)*
-- [jsonapi-serializer](https://github.com/SeyZ/jsonapi-serializer):** A robust, framework-agnostic Node.js library for (de)serializing data to the JSON API specification. (700+ stars).
+- [jsonapi-serializer](https://github.com/SeyZ/jsonapi-serializer): A robust, framework-agnostic Node.js library for (de)serializing data to the JSON API specification. (700+ stars).
 - [Baboon](https://github.com/SeyZ/baboon): A lightweight daemon that detects source code merge conflicts in real-time. *(Python) (XMPP)*
-- [yaapit](https://github.com/SeyZ/yaapit):** A client-side encrypted paste service focused on data privacy. *(JS)*
-- [Awesome-WM-Configuration](https://github.com/SeyZ/Awesome-WM-Configuration):** My advanced, highly customized Lua scripts for the Awesome Window Manager. *(LUA)*
+- [yaapit](https://github.com/SeyZ/yaapit): A client-side encrypted paste service focused on data privacy. *(JS)*
+- [Awesome-WM-Configuration](https://github.com/SeyZ/Awesome-WM-Configuration): My advanced, highly customized Lua scripts for the Awesome Window Manager. *(LUA)*
 
 ### GitHub Activity
 ![GitHub Contribution Graph](https://ghchart.rshah.org/SeyZ)
